@@ -1,2 +1,0 @@
-# WorldAndroid
-世界
